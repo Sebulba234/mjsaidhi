@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+  <title>Best Website</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://i.pinimg.com/originals/47/a6/10/47a61014e8e1ea9114a0b2fc761ff198.jpg");
+background-size: cover;
+background-position: center;
+     color: Red;
+      font-family: Trebuchet MS Bold;
+    }
+    p {
+      font-size: 25px;
+    }
+    input {
+      border: 0;
+    padding: 10px;
+    font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+    <IMG STYLE="position:absolute; TOP:35px; LEFT:170px; WIDTH:50px; HEIGHT:50px" SRC="circle.gif">
+    
+  </style>
+</head>
+<html>
+  <head>
+    <title></title>
+    <meta content="">
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script>
+      $(function() {
+	$("#visible").click(function() {
+	    $('#invisible').toggleClass("show");
+	  });  
+	});
+    </script>
+    <style>
+      .hide{display:none;}
+      .show{display:block;}
+    </style>
+  </head>
+  <body>
+    <p id="visible">ClICK HERE if you can't submit your Email you nincompoop</p>
+    <p id="invisible" class="hide">I know you're thinking, "Mj you're such a fucking dick" right? Well FUCK YOUUUUU</p>
+  </body>
+</html>
+<body>
+<img src="<a href='https://photos.google.com/share/AF1QipN126LvjJaNyUpmuxalnd8VANVc_8zKObzcFbqBWOkuL8DYHoIqhFlR2ioSKEm-aw?key=VU1VN0gzTm40WjdUbXZhOElpRkJfbkl0cUJIbkdn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/GoD4TbBSig0ZuZnYlKsMkA4-TQXYNdYQ2acTEmLdkaj7fZdGJ67jSTJqTlF_AqnvUU0rcjuIc_n6rgHHWwUnZgqwsRLkAZIiNwgpI9Chy-fotvMtWmh3W4OIQjiiLDloJrcH5bopIg' /></a>">
+  <p> HI THERE YOU LITTLE BITCH</p>
+  <input type="email" placeholder="Enter ur email and fuck off">
+  <input type="submit">
+</body>
